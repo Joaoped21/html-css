@@ -1,0 +1,29 @@
+# = id
+. = class
+: = pseudo-class
+:: = pseudo-element
+>  = children
+
+------------------------------------------------------------------------------
+
+margin : ;	
+border : ;
+width : ;
+height : ;
+
+-----------------------------------------------------------------------------
+
+border-width: ;
+border-style: ;
+border-color: ;
+
+-----------------------------------------------------------------------------
+
+<picture> image <picture/> : imagens de varios tamanhos.
+<nav> : varios links, menu dentro do header.
+<article> : quando existir algum tipo de aritgo.
+-----------------------------------------------------------------------------
+
+display : flex: / deixar ao lado.
+text-indent: ; / espaço no começo do parágrafo.
+line height: ; / espaçamento entre linhas
