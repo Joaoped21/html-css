@@ -1,0 +1,9 @@
+Header { Banner, Logo, Formulário de pesquisa, ícones, Menu de navegação}
+
+nav { Conjunto de links de navegação do site}
+
+main {conteudo principal }
+
+aside { informações e link relacionados ao conteudo principal}
+
+footer {define o Rodapé para a pagina, contendo informaçoes de autoria, Direitos autorais, contato, mapa do site, links.
